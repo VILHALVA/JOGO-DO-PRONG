@@ -57,7 +57,7 @@ O jogo "Prong" é uma versão simplificada de um jogo de ação em que o jogador
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO BASEADO NO "oprogramadorreal/Prong"](https://github.com/oprogramadorreal)
+- [PROJETO BASEADO NO "oprogramadorreal"](https://github.com/oprogramadorreal/Prong)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
 
 
